@@ -1,0 +1,19 @@
+.navbar{
+    transition: all 0.2s ease-in-out;
+}
+.navbg-light{
+    background-color: #ffffff90;
+}
+.navbg-light h1, .navbg-light a{
+    color: white;
+}
+.navbg-dark{
+    background-color: #00000090;
+}
+.navbg-dark h1, .navbg-dark a{
+    color: white;
+}
+
+
+
+
